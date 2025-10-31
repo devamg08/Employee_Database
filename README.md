@@ -1,6 +1,6 @@
 # SQL_Emplyee_Database
 
-# Employee Database: A Mystery in Two Parts
+# Employee Database
 
 ![sql.png](sql.png)
 

@@ -1,4 +1,4 @@
-# SQL_Emplyee_Database
+# SQL_Employee_Database
 
 # Employee Database
 
